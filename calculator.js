@@ -7,7 +7,7 @@ class Calculator {
       if (num2 !== 0) {
         return num1 / num2;
       }
-      throw new Error('dividion by 0 not allowed');
+      throw new Error('dividion by 0 not possible');
     }
   
     multiply = (num1, num2) => num1 * num2
