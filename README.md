@@ -1,36 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To-Do-List
+# Jest Testing
 
-> This project was built for Microverse [under these guidance objectives](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/m1_list_structure.md)
-> _note: you can only access this link if you're a Micronault (Microverse Student)_
+> This repo is used for testing a Javascript app using the Jest library.
 
-## Live Demo
- [Live Preview of my project](https://tumworobere.github.io/To-Do-List/)
 
-## Built With 🔨
+## Built With
 
-- HTML
-- CSS
-- JAVASCRIPT
-- WEBPACK
+- Javascript
+- Jest library
 
 ## Getting started
 1. Clone the project
-2. Installing the packages
-3. On the cmd run `npm run build`
-4. Run `npm start`
-
-### Prerequisites
-
-- IDE to edit and run the code (I used Visual Studio Code 🔥).
-
-### Usage
-
-- For anyone who wants to practice HTML5, CSS, and Bootstrap responsive design.
-- How to apply responsive design using flexbox and GRID.
-- How to use only one breakpoint to make a responsive website.
-
 
 ## Authors
 
